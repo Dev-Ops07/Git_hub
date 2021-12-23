@@ -20,11 +20,30 @@ centralized
 destributive
 
 # Different types of vcs softwares
+
 cvs (concurrent version sysytem)
 svn (sub version )
 vss (microsoft visual source safe )
 clear case
 git
+
+---
+ 
+git workflow in local repository
+
+it has 4 areas 
+
+working tree
+
+staging / indexing area
+
+local repository
+
+central / remote repository
+
+
+
+
 
 
 

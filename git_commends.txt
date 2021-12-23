@@ -1,0 +1,42 @@
+-------git commends----------
+# initiating git local repository
+
+---> git init
+
+# to Know the status
+
+---> git status
+
+# adding working tree to staging area then it creates index or history
+
+---> git add .
+
+---> git add -A
+
+---> git add -u
+
+# configuration of user and email
+
+---> git config --global user.name '<username>'
+---> git config --global user.email '<email@gmail.com>'
+
+# listing the configuration 
+
+---> git config --list
+
+# adding staging area to local repository
+
+---> git commit -m "<commitig message>"
+
+# listing the commit logs
+
+---> git log
+
+# get back data from staging area to working tree
+
+---> git reset <filename>
+
+---> git restore --staged <file name>
+
+ 
+
