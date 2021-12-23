@@ -1,0 +1,31 @@
+#-------------- About git---------- 
+git full form global information tracker
+
+git is one of the vcs software 
+
+it is opensource cross platform software
+
+git is a distributive version control system (dvcs)
+
+it is also called as source code management tool (scm)
+
+each change can be stored in the form of version
+
+it is a client-server architecture
+
+two types 
+
+centralized 
+
+destributive
+
+# Different types of vcs softwares
+cvs (concurrent version sysytem)
+svn (sub version )
+vss (microsoft visual source safe )
+clear case
+git
+
+
+
+

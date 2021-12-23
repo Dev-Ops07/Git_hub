@@ -1,0 +1,22 @@
+#-------git installation---------
+
+# installing git 
+# In Windows
+#using package manager chocolatey
+
+---> choco install git 
+
+# In Linux
+# Ubuntu
+# using package manager apt-get
+
+---> apt-get update && apt-get install git -y
+
+# RHEL
+#using package manager yum
+
+---> yum install git -y
+
+# In Mac
+
+# we should install the package manager homebrew or xcode by default we get the git init
