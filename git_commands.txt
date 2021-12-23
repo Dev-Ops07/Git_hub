@@ -147,4 +147,26 @@
 
 ---> git stash clean
 
- 
+# addig tags to commits 
+# lightweight tag
+
+---> git tag  <tag name>
+
+# annotated tag 
+
+---> git tag -a <tag name > -m <message>
+
+# listing the tags
+
+---> git tag
+
+# view the tag commits
+
+---> git show <tag name>
+
+# pushing tags to remote repository
+
+---> git push <remote branch> <tag name>
+
+
+
