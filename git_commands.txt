@@ -168,5 +168,23 @@
 
 ---> git push <remote branch> <tag name>
 
+# change the commit message
+
+---> git commit --amend 
+
+# to change the author
+
+---> git commit --amend --author='username <emailaddress>'
+
+# rollback the commit
+
+---> git reset -i HEAD~<commit number>
+
+# adding particular commit to the barnch 
+
+---> git cherry-pick <commit-id>
+
+
+
 
 
